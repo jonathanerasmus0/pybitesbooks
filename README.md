@@ -34,3 +34,4 @@ This has environment variables set so that you can get up and running easily.  T
 ... are more than welcome, just [open an issue](https://github.com/pybites/pbreadinglist/issues) and/or [PR new features](https://github.com/pybites/pbreadinglist/pulls).
 
 Remember _leaders are readers_, read every day!
+# debugging-toolbar
